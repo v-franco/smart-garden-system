@@ -19,4 +19,4 @@ The DB querys were made using PHP.
 The NodeMCUs were programmed with Arduino IDE to read and send through MQTT data recolected from sensors monitoring temperature, humidity, light, and water levels.
 
 # Authors
-This videogame was made by [@BeanIRL](https://github.com/BeanIRL), [@A01367213](https://github.com/A01367213), [@ElMike1712](https://github.com/ElMike1712), and @v-franco
+This videogame was made by [@BeanIRL](https://github.com/BeanIRL), [@A01367213](https://github.com/A01367213), and @v-franco
