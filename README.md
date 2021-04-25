@@ -2,7 +2,7 @@
 IoT based smart gardening system
 
 # Overview
-This project consists of a IoT smart gardenign system using a Raspberry Pi and 3 NodeMCUs located in different households. 
+This project consists of a IoT smart gardenign system using a Raspberry Pi and 3 NodeMCUs located in different households. The control and monitoring of the sensors was made through a website hosted by the Raspberry Pi using a DDNS.
 
 # Physical installation
 This project required the use of electronic materials such as breadboards, solenoid valves (127V, 60Hz), relay modules, thermistors (10k ohms), humidity sensors, UTP cable, jumper cables, etc.
